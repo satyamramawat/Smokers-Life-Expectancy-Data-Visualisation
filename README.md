@@ -8,6 +8,18 @@
 
 ##### Overall, Tobacco smoking is popular among many growing countries but it will reduce the life of an individual. So people who smoke cigarette just for fashion or show off or who are addicted should discontinue it because other way around they are killing themselves.
 
+# Tools used:
+* Tableau - Data Visualization
+* Python Notebook - Code environment
+* Below libraries/methods used to manipulate the data:
+* *  Pandas
+* * NUMPY
+* * Pandas.Dataframe
+* * Set
+* * toList()
+* * drop()
+* * to_csv
+
 Below are the results to learn more, Kindly go through <b>"SATYAM RAMAWAT_CA682_Assignment_2019.pdf"</b>.
 
 
