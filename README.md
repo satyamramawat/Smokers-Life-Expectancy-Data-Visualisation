@@ -20,7 +20,7 @@
 * * drop()
 * * to_csv
 
-Below are the results to learn more, Kindly go through <b>"SATYAM RAMAWAT_CA682_Assignment_2019.pdf"</b>.
+Below are the results, to learn more kindly go through <b>"SATYAM RAMAWAT_CA682_Assignment_2019.pdf"</b>.
 
 
 ## Output:
